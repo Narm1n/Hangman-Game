@@ -1,0 +1,8 @@
+colors,Red,Blue,Yellow,Green,Orange,Purple,Pink,Brown,Black,White,Gray
+vegetables,Carrot,Cucumber,Broccoli,Spinach,Peas,Onion,Cabbage,Cauliflower
+animals,Lion,Zebra,Elephant,Bird,Tiger,Panda,Monkey,Giraffe,Crocodile,Leopard,Deer,Dolphin,Whale,Shark,Octopus,Fish
+sports,Basketball,Soccer,Football,Badminton,Volleyball,Golf,Tennis,Cricket,Rugby,Hockey
+fruits,Banana,Orange,Apple,Strawberry,Mango,Kiwi,Watermelon,Pineapple,Grape,Lemon
+countries,China,United States,India,Indonesia,Pakistan,Brazil,Nigeria,Bangladesh,Russia,Japan,Mexico,Egypt,Ethiopia,Germany,Iran,Turkey,France,United Kingdom,Italy
+programming languages,Java,Python,JavaScript,C,Assembly
+
